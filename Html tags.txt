@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Fefes Blog</title>
+    </head>
+    <body>
+        <h1>Fefes Blog</h1>
+        <p>Wer schöne Verschwörungslinks für mich hat: ab an felix-bloginput (at) fefe.de!</p>
+        <h3>Sun Jan 7, 2024</h3>
+    
+        <ul>
+            <li>
+                <a href="https://www.google.com/search?q=google&rlz=1C1CHZN_trAZ994AZ994&oq=goo&gs_lcrp=EgZjaHJvbWUqCggAEAAY4wIYgAQyCggAEAAY4wIYgAQyDQgBEC4YxwEY0QMYgAQyDAgCEAAYQxiABBiKBTIMCAMQABhDGIAEGIoFMgwIBBAAGEMYgAQYigUyBggFEEUYPDIGCAYQRRg8MgYIBxBFGDzSAQgyMjY2ajBqNKgCALACAA&sourceid=chrome&ie=UTF-8">[Die BBC über Hochwasser in England.</a>
+                <p>Fragen? Antworten! Siehe auch: Alternativlos</p>
+                <p>Es geht um einen Typen, dessen Haus in einem Flutgebiet in Worcestershire (11x Überflutung seit 2016).</p>
+                <p>Also hat der um sein Haus eine Schutzmauer gebaut, deren Funktionieren sie hier mit einem kleinen Video zeigen.</p>
+                <p>Wenn man sich in Deutschland übrigens über Hochwasser-Ingenieurswesen informieren will, ist die Hallig Hooge ein gutes Reiseziel.</p>
+                <p>Ihr wisst schon, wo der Habeck gerade war. (Danke, Hugo)]</p>
+            </li>
+    
+            <li>
+                <a href="https://www.google.com/search?q=google&rlz=1C1CHZN_trAZ994AZ994&oq=goo&gs_lcrp=EgZjaHJvbWUqCggAEAAY4wIYgAQyCggAEAAY4wIYgAQyDQgBEC4YxwEY0QMYgAQyDAgCEAAYQxiABBiKBTIMCAMQABhDGIAEGIoFMgwIBBAAGEMYgAQYigUyBggFEEUYPDIGCAYQRRg8MgYIBxBFGDzSAQgyMjY2ajBqNKgCALACAA&sourceid=chrome&ie=UTF-8">[Auch in Polen gibt es gerade Bauernproteste. Die Bauern haben die Grenze zur Ukraine blockiert und die Regierung ist daraufhin eingeknickt und will ihre Forderungen erfüllen.]</a>
+            </li>
+    
+            <li>
+                <p>[The Front Fell Off, aviation edition. Eine Boeing 737 Max hat im Flug eine Tür verloren. Wie durch ein Wunder saß auf dem Sitz daneben niemand und die Passagiere waren offenbar alle angeschnallt, so dass die Maschine notlanden konnte, ohne dass jemand rausgesogen wurde.]</p>
+            </li>
+    <hr>
+    <br>
+            <li>
+                <p>[Hey, woher wussten eigentlich die Bauern, wo der Habeck Urlaub macht?</p>
+                <p>Tagesschau hat Details:</p>
+                <p>Auf X (ehemals Twitter) und Telegram hatten Personen bereits mittags dazu aufgerufen, einen "Bürgerdialog" mit Habeck zu starten.</p>
+                <p>Die Agitatoren stammen aus dem Umfeld der Identitären Bewegung.</p>
+                <p>Ach! Ach was. Das waren gar keine Landwirte? Das waren bloß Nazis?</p>
+                <p>Na sowas! Scheiße, Bernd, wenn wir doch nur eine Behörde hätten, die Rechtsextremismus im Vorfeld bekämpfen könnte! Die die Verfassung schützen könnte, vielleicht gar! Einen ... nennen wir es mal ... Verfassungsschutz vielleicht?</p>
+                <p>...]</p>
+            </li>
+    
+            <li>
+                <p>[Was passiert, wenn man ein Krankenhaus an "Investoren" verkauft?</p>
+                <p>Eine Weile nichts, dann werden Patienten knapp, weil die alle wegen minderwertiger Behandlung wegsterben. (Danke, Pius)]</p>
+            </li>
+    
+            <li>
+                <p><i>[Sahra Wagenknecht über den Angriff auf Habecks Urlaubsfähre:</i></p>
+                <p>Wagenknecht sagte dem RedaktionsNetzwerk Deutschland: „Die Ampel macht Bauern zu Melkkühen ihrer verfehlten Politik...</p>
+                <p><b>Jetzt weiß ich es. Nein, tue ich nicht.]</b></p>
+            </li>
+    
+            <li>
+                <p>[Vielleicht sind die Chipfertigungs-Sanktionen gegen China doch effektiver als gedacht. Der 5nm-Prozessor von Huawei kommt jedenfalls nur dann aus China, wenn man Taiwan dazurechnet :)</p>
+                <p>Noch so eine Sternstunde der modernen Wissenschaft:</p>
+                <p>According to a widespread belief, the average IQ of university students is 115 to 130 IQ points, that is, substantially higher than the average IQ of the general population (M = 100, SD =15). We traced the origin of this belief to obsolete intelligence data collected in 1940s and 1950s when university education was the privilege of a few...</p>
+                <p>Das ist ja unglaublich, Bob
+    
+</body>
+</html>
